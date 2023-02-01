@@ -42,6 +42,8 @@
 
 Дашборд отображает вовлеченность пользователей и использование приложения
 
+[дашборд](https://public.tableau.com/app/profile/alex3577/viz/FinalProjectKC4var/Dashboard1?publish=yes)
+
 <p align="center">
 <img src="Dashboard_AB.png" width="1000">
 </p>
